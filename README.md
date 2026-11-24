@@ -8,4 +8,4 @@
 
 Pong game se desarolllo en el año 1972. 
 
-Este es un pequeño proyecto de clase que busca replicar dicho juego de la epoca, para poder aprender las bases del desrollo de videojuegos.
+Este es un pequeño proyecto de clase que busca replicar dicho juego de la epoca, para poder aprender las bases del desrrollo de videojuegos.
